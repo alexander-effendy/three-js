@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { createScene } from './ThreeScene.js';
+import { createScene } from './spinning-box-scene.js';
 
 const SpinningBox = () => {
   const threeRef = useRef(null);
