@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { createScene } from './screens/SpinningBox/ThreeScene.js';
+import { createScene } from './screens/spinning-box/spinning-box-scene.js';
 import Pages from './Pages.jsx';
 
 import './App.css';
